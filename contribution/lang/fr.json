@@ -1,11 +1,11 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Inventory",
+ 	 	 	"trans": "Inventaire",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Quest",
+ 	 	 	"trans": "quête",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
@@ -13,22 +13,22 @@
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
- 	 	 	"trans": "Profile",
+ 	 	 	"trans": "Profil",
  	 	 	"eng": "Profile"
  	 	},
  	 	"map": {
- 	 	 	"trans": "Map",
+ 	 	 	"trans": "carte",
  	 	 	"eng": "Map"
  	 	}
  	},
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Arasaka Unit Exchange",
+ 	 	 	 	"trans": "échange d'Unit d'Arasaka ",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "You can purchase global buff items here",
+ 	 	 	 	"trans": "tu peux acheter plein d objet utile ici",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	}
  	 	},
@@ -38,23 +38,23 @@
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you liked the game, please consider donation :)",
+ 	 	 	 	"trans": "si tu aime le jeu, pense à donner :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	}
  	 	},
  	 	"printer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Molecular 3d Printer",
+ 	 	 	 	"trans": "imprimante 3d moléculaire",
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "You can use your Cache to print new equipment here",
+ 	 	 	 	"trans": "tu peux utiliser tes caches pour imprimer des nouveaux équipment ici",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	}
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Weapon Smith",
+ 	 	 	 	"trans": "forgeron",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
@@ -70,13 +70,13 @@
  	 	},
  	 	"store": {
  	 	 	"name": {
- 	 	 	 	"trans": "Trinoky Mart",
+ 	 	 	 	"trans": "marché de Trinoky",
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	}
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaka",
+ 	 	 	 	"trans": "Banque d'Arasaka",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	}
  	 	}
@@ -87,32 +87,32 @@
  	 	 	 	"amount",
  	 	 	 	"itemName"
  	 	 	],
- 	 	 	"trans": "You received ${amount} ${itemName}",
+ 	 	 	"trans": "tu as reçu ${amount} ${itemName}",
  	 	 	"eng": "You received ${amount} ${itemName}"
  	 	}
  	},
  	"levelType": {
  	 	"normal": {
  	 	 	"name": {
- 	 	 	 	"trans": "level",
+ 	 	 	 	"trans": "niveau",
  	 	 	 	"eng": "level"
  	 	 	}
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "printing rank",
+ 	 	 	 	"trans": "niveau d imprimeur",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "medical science",
+ 	 	 	 	"trans": "science de la medecine ",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "ammo crafting",
+ 	 	 	 	"trans": "fabrication de munition",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	}
@@ -120,34 +120,34 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La City center",
+ 	 	 	 	"trans": "centre de Shangri-la",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe.",
+ 	 	 	 	"trans": "[centre ville]\r\n        une des ville les plus active du continent , ici tu peut trouver toute sorte communautée qui viennent du monde entier.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
+ 	 	 	 	 	"trans": "aller a la gare centrale",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Start your adventure to epic loots here",
+ 	 	 	 	 	"trans": "commence ta nouvelle aventure ici ",
  	 	 	 	 	"eng": "Start your adventure to epic loots here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
+ 	 	 	 	 	"trans": "aller a la gare centrale",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
  	 	 	"toJob": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Shangri-La Commercial Area",
+ 	 	 	 	 	"trans": "aller a la zone comerciale de shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "You can complete AFK jobs to increase your skills here",
+ 	 	 	 	 	"trans": "tu peux faire des taches AFK ici pour augmenter tes competences speciale ",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
